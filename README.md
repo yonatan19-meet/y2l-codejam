@@ -30,7 +30,7 @@ Which prime, below one-million, can be written as the sum of the most consecutiv
 ## Question 4
 Euler's Totient function, φ(n) [sometimes called the phi function], is used to determine the number of numbers less than n which are relatively prime to n. For example, as 1, 2, 4, 5, 7, and 8, are all less than nine and relatively prime to nine, φ(9)=6.
 
-![copying url2](https://ibb.co/pykdzty)
+![Question 4](https://i.ibb.co/fvTHphv/CJProblem69.png)
 
 It can be seen that n=6 produces a maximum n/φ(n) for n ≤ 10.
 
