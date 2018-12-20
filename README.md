@@ -41,9 +41,18 @@ In the 5 by 5 matrix below, the minimal path sum from the top left to the bottom
 
 ![Question 5](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bpmatrix%7D%20%5Ccolor%7Bred%7D%7B131%7D%20%26%20673%20%26%20234%20%26%20103%20%26%2018%5C%5C%20%5Ccolor%7Bred%7D%7B201%7D%20%26%20%5Ccolor%7Bred%7D%7B96%7D%20%26%20%5Ccolor%7Bred%7D%7B342%7D%20%26%20965%20%26%20150%5C%5C%20630%20%26%20803%20%26%20%5Ccolor%7Bred%7D%7B746%7D%20%26%20%5Ccolor%7Bred%7D%7B422%7D%20%26%20111%5C%5C%20537%20%26%20699%20%26%20497%20%26%20%5Ccolor%7Bred%7D%7B121%7D%20%26%20956%5C%5C%20805%20%26%20732%20%26%20524%20%26%20%5Ccolor%7Bred%7D%7B37%7D%20%26%20%5Ccolor%7Bred%7D%7B331%7D%20%5Cend%7Bpmatrix%7D)
 
+Find the minimal path sum, in [matrix.txt](https://projecteuler.net/project/resources/p081_matrix.txt) (right click and "Save Link/Target As..."), a 31K text file containing a 80 by 80 matrix, from the top left to the bottom right by only moving right and down.
 
 ## Question 6
+By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23.
 
-## Question 7
+That is, 3 + 7 + 4 + 9 = 23.
+
+Find the maximum total from top to bottom in [triangle.txt](https://projecteuler.net/project/resources/p067_triangle.txt) (right click and 'Save Link/Target As...'), a 15K text file containing a triangle with one-hundred rows.
+
+**NOTE**: It is not possible to try every route to solve this problem, as there are ![possibilities](https://latex.codecogs.com/gif.latex?2%5E%7B99%7D) altogether! If you could check one trillion (1012) routes every second it would take over twenty billion years to check them all. There is an efficient algorithm to solve it. ;o)
+
+
+
 
 
