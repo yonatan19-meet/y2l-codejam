@@ -30,7 +30,7 @@ Which prime, below one-million, can be written as the sum of the most consecutiv
 ## Question 4
 Euler's Totient function, φ(n) [sometimes called the phi function], is used to determine the number of numbers less than n which are relatively prime to n. For example, as 1, 2, 4, 5, 7, and 8, are all less than nine and relatively prime to nine, φ(9)=6.
 
-![Question 4](https://ibb.co/pykdzty)
+![copying url2](https://ibb.co/pykdzty)
 
 It can be seen that n=6 produces a maximum n/φ(n) for n ≤ 10.
 
@@ -43,14 +43,8 @@ In the 5 by 5 matrix below, the minimal path sum from the top left to the bottom
 
 Find the minimal path sum, in [matrix.txt](https://projecteuler.net/project/resources/p081_matrix.txt) (right click and "Save Link/Target As..."), a 31K text file containing a 80 by 80 matrix, from the top left to the bottom right by only moving right and down.
 
-## Question 6
-By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23.
 
-That is, 3 + 7 + 4 + 9 = 23.
 
-Find the maximum total from top to bottom in [triangle.txt](https://projecteuler.net/project/resources/p067_triangle.txt) (right click and 'Save Link/Target As...'), a 15K text file containing a triangle with one-hundred rows.
-
-**NOTE**: It is not possible to try every route to solve this problem, as there are ![possibilities](https://latex.codecogs.com/gif.latex?2%5E%7B99%7D) altogether! If you could check one trillion (1012) routes every second it would take over twenty billion years to check them all. There is an efficient algorithm to solve it. ;o)
 
 
 
